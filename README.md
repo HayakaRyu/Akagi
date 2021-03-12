@@ -1,15 +1,15 @@
-![mizuhara](https://telegra.ph/file/8fbc5858ddd7eefe2fccf.jpg)
-# Mizuhara Robot 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/AnimeKaizoku/Mizuhararobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/Mizuhararobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/AnimeKaizoku/Mizuhararobot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/chizuruupdates)
+![Akagi](https://telegra.ph/file/67a3aebbd6354fbe45d53.jpg)
+# Akagi Robot 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/AnimeKaizoku/Mizuhararobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/Mizuhararobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/AnimeKaizoku/Mizuhararobot/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com) [![Updates channel!](https://img.shields.io/badge/Join%20Channel-!-red)](https://t.me/HayakaRyuUpdates)
 
 A Telegram Python bot running on python3 forked with saitama with a sqlalchemy database and an entirely themed persona to make chizuru fun and good management for you in your groups.
 
-Can be found on telegram as [Mizuhara robot](https://t.me/Chizurumanagementbot).
+Can be found on telegram as [Akagi](https://t.me/AkagiAzurBot).
 
-The Support group can be reached out to at [chizuru support](https://t.me/chizurusupport), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [chizuru support](https://t.me/ZeroChatSupport), where you can ask for help , discover new features, report bugs, and stay in the loop whenever a new update is available. 
 
 
-News channel as at [Chizuru updates](https://t.me/chizuruupdates)
+News channel as at [Hayaka Ryu Updates](https://t.me/HayakaRyuUpdates)
 
 ## How to setup/deploy.
 
