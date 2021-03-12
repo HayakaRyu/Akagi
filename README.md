@@ -13,6 +13,8 @@ News channel as at [Hayaka Ryu Updates](https://t.me/HayakaRyuUpdates)
 
 ## How to setup/deploy.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 ### Read these notes carefully before proceeding 
  - This bot is forked from saitama which is based on marie
  - Your code must be open source and a link to our repo
