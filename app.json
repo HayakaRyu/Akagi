@@ -12,10 +12,11 @@
    "addons": [
       {
          "options": {
-            "version": "12"
+            "version": "6.0.2"
          },
-         "plan": "heroku-postgresql"
+         "plan": "heroku-redis"
       }
+   ],
    "env": {
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
