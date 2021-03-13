@@ -12,9 +12,9 @@
    "addons": [
       {
          "options": {
-            "version": "6.0.2"
+            "version": "12"
          },
-         "plan": "heroku-redis"
+         "plan": "heroku-postgresql"
       }
    ],
    "env": {
